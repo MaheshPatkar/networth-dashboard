@@ -37,3 +37,8 @@ A React + Vite frontend for displaying a personal net worth dashboard using Exce
 
 - The app expects an Excel workbook at `/data/networth.xlsx`.
 - The `server.js` file provides a simple production static server for the `dist` folder.
+
+
+
+
+    
